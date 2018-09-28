@@ -34,8 +34,14 @@ The article can be found here: [TBD]
 |  “Unit Conversion”  |
 |  “Physical Units”  |
 
-## Table of Contents
-[Test](#top-tier-libraries)
+## Links to different parts
+- [Top tier libraries](#top-tier-libraries)
+
+- [Second tier libraries](#second-tier-libraries)
+
+- [All valid projects](#valid-projects)
+
+- [Tools and applications](#tools)
 
 ## Top tier libraries 
 | Name | Language | Amount of units/constants/prefixes supported | Source / URL |
