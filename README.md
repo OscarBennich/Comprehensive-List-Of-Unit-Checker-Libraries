@@ -11,7 +11,8 @@ If you would like to read more, the master thesis can be found here: http://urn.
 
 The article can be found here: [TBD] 
 
-## Repository sites checked
+## Data gathering information
+Repository sites that were checked:
 | Site Name  | Site Link |
 | ------------- | ------------- |
 | GitHub.com | https://github.com/ |
@@ -22,7 +23,7 @@ The article can be found here: [TBD]
 | LaunchPad.net  | https://launchpad.net/  |
 | Savannah.gnu.org  | http://savannah.gnu.org/ |
 
-## Keywords that were used
+Keywords that were used: 
 | Keyword  |
 | ------------- |
 | “Units of Measure”   |
