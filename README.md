@@ -13,6 +13,7 @@ The article can be found here: [TBD]
 
 ## Data gathering information
 Repository sites that were checked:
+
 | Site Name  | Site Link |
 | ------------- | ------------- |
 | GitHub.com | https://github.com/ |
@@ -24,6 +25,7 @@ Repository sites that were checked:
 | Savannah.gnu.org  | http://savannah.gnu.org/ |
 
 Keywords that were used: 
+
 | Keyword  |
 | ------------- |
 | “Units of Measure”   |
