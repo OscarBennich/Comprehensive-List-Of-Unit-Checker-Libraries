@@ -5,6 +5,10 @@ In scientific applications, physical quantities and units ofmeasurement are used
 ## Short description 
 ... 
 
+You can contact me at: Oscar.Bennich@gmail.com
+
+If you would like to read more, the master thesis can be found here: http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-353817 
+
 ## Repository sites checked
 | Site Name  | Site Link |
 | ------------- | ------------- |
