@@ -78,7 +78,7 @@ Keywords that were used:
 | Quantiphy | Python | ~40 units, 19 prefixes, 19 constants | https://github.com/KenKundert/quantiphy |
 | Misu | Python | ~450 units, 20 prefixes | https://github.com/cjrh/misu |
 | Aegon | Python | 150+ units | https://github.com/lukaskollmer/aegon |
-| BoostUnits | C++ | ~200 units, 20 prefixes, ~150 constants | https://www.boost.org/doc/libs/1_66_0/doc/html/boost_units.html |
+| BoostUnits | C++ | ~200 units, 20 prefixes, ~150 constants | https://github.com/boostorg/units/ |
 | Units (#1) | C++ | ~150 units, 22 prefixes | https://github.com/nholthaus/units |
 | PhysUnits | C++ | 100+ units, 7 constants, 28 prefixes | https://github.com/martinmoene/PhysUnits-CT-Cpp11 |
 | Units (#2) | C++ | ~30 units, 330+ constants, 14 prefixes | https://github.com/tonypilz/units |
@@ -362,7 +362,7 @@ Keywords that were used:
 | Phriky-Units | Python | Tool | https://github.com/unl-nimbus-lab/phriky-units |
 | UnitsNet | C# | Library | https://github.com/angularsen/UnitsNet |
 | ParamPool | Python | Tool | https://github.com/hplgit/parampool |
-| BoostUnits | C++ | Library | https://www.boost.org/doc/libs/1_66_0/doc/html/boost_units.html |
+| BoostUnits | C++ | Library | https://github.com/boostorg/units/ |
 | Convert Units (#1) | Java | Library | https://github.com/ben-ng/convert-units |
 | Units (#1) | C++ | Library | https://github.com/nholthaus/units |
 | Unit (#1) | Go | Library | https://github.com/martinlindhe/unit |
