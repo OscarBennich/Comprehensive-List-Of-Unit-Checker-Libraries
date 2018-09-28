@@ -1,6 +1,16 @@
 # A Comprehensive List of Unit Checker Libraries
+## Table of Contents
+- [Abstract](#abstract)
+- [Short description of the project](#short-description)
+- [Data gathering information](#data-gathering-information)
+- [Top tier libraries](#top-tier-libraries)
+- [Second tier libraries](#second-tier-libraries)
+- [All valid projects](#valid-projects)
+- [Tools and applications](#tools)
+
 ## Abstract
 [Will fix]
+
 In scientific applications, physical quantities and units ofmeasurement are used regularly. If the inherent incompatibility between these units is not handled properly it can lead to major, and sometimes catastrophic, problems. Although the risk of a miscalculation is high and the cost equally so, almost none of the major programming languages has support for physical quantities. Instead, scientific code developers often make their own tools or rely on external libraries to help them spot or prevent these mistakes. We employed a systematic approach to examine and analyse all available physical quantity open-source libraries. The results were then condensed into 82 libraries, chosen from approximately 3700 search results across seven repository hosting sites, as being the most comprehensive and well-developed. In this group, 30 different programming languages are represented. Out of these 82 libraries, 38 have been updated within the last two years. These 38 are summarised in this paper as they are deemed the most relevant.The conclusion we draw from these results is that there is clearly too much diversity, duplicated efforts, a lack of codesharing and harmonisation to encourage use.
 
 ## Short description 
@@ -37,15 +47,6 @@ Keywords that were used:
 |  “Conversion”  |
 |  “Unit Conversion”  |
 |  “Physical Units”  |
-
-## Links to different parts
-- [Top tier libraries](#top-tier-libraries)
-
-- [Second tier libraries](#second-tier-libraries)
-
-- [All valid projects](#valid-projects)
-
-- [Tools and applications](#tools)
 
 ## Top tier libraries 
 | Name | Language | Amount of units/constants/prefixes supported | Source / URL |
