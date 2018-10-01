@@ -24,7 +24,7 @@ and the paper can be found here: [To be added]
 ## Data gathering information
 The data presented here was gathered from seven sites, using eight different keywords. More detailed information about this process can be found in either the thesis or the paper. The sites and keywords are found below. 
 
-| Site Name  | Site Link |
+| Site name  | URL |
 | ------------- | ------------- |
 | GitHub.com | https://github.com/ |
 | Bit-Bucket.org | https://bitbucket.org/ |
@@ -34,7 +34,7 @@ The data presented here was gathered from seven sites, using eight different key
 | LaunchPad.net  | https://launchpad.net/  |
 | Savannah.gnu.org  | http://savannah.gnu.org/ |
 
-| Keyword  |
+| Keywords  |
 | ------------- |
 | “Units of Measure”   |
 | “Units Measure Converter” |
