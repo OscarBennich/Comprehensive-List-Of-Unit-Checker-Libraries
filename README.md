@@ -10,7 +10,7 @@
 ## Short description 
 In the spring of 2018 I (Oscar Bennich-Björkman) wrote my master thesis as part of my degree in Information Systems at Uppsala University. The main goal of this thesis involved a comprehensive and systematic analysis of libraries related to the handling of physical quantities or units of measurement. The end result was a group of what I chose to call 'top tier' libraries, which are the best and most well-developed libraries in a range of different programming languages. 
 
-Me and my supervisor (Steve McKeever) also remade the core of this thesis into a paper which is to be published in the ACM Journals in conjunction with being presented at the 2018 ACM SIGPLAN International Conference on Software Language Engineering (https://conf.researchr.org/track/sle-2018/papers#About). 
+Me and my supervisor (Steve McKeever) also remade the core of this thesis into a paper which is to be published in the ACM Journals and presented at the 2018 ACM SIGPLAN International Conference on Software Language Engineering (https://conf.researchr.org/track/sle-2018/papers#About). 
 
 This GitHub repository is primarily provided as a way of giving easy access to this data for anyone looking for a library of this kind, as this type of database did not exist prior to this study. Secondarily, this database is a way of making the data more transparent for any reader of either the paper or the thesis. 
 
