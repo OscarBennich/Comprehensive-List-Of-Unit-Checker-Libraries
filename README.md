@@ -8,7 +8,7 @@
 - [All projects](#all-projects)
 
 ## Short description 
-In the spring of 2018 I (Oscar Bennich-Björkman) wrote my master thesis as part of my degree in Information Systems at Uppsala University. The main part of this thesis involved a comprehensive and systematic analysis of libraries related to the handling of physical quantities or units of measurement. The end result of this study was a group of what I chose to call 'top tier' libraries, which are the best and most well-developed libraries for a range of different programming languages. 
+In the spring of 2018 I (Oscar Bennich-Björkman) wrote my master thesis as part of my degree in Information Systems at Uppsala University. The main goal of this thesis involved a comprehensive and systematic analysis of libraries related to the handling of physical quantities or units of measurement. The end result was a group of what I chose to call 'top tier' libraries, which are the best and most well-developed libraries in a range of different programming languages. 
 
 Me and my supervisor (Steve McKeever) also remade the core of this thesis into a paper which is to be published in the ACM Journals in conjunction with being presented at the 2018 ACM SIGPLAN International Conference on Software Language Engineering (https://conf.researchr.org/track/sle-2018/papers#About). 
 
