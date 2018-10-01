@@ -357,96 +357,96 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 ## Tools
 | Name | Language | Source / URL |
 |-------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------|
-| Phriky-Units | Python | https://github.com/unl-nimbus-lab/phriky-units |
-| ParamPool | Python | https://github.com/hplgit/parampool |
-| NumericalUnits | Python | https://github.com/sbyrnes321/numericalunits |
-| Rink | Rust | https://github.com/tiffany352/rink-rs |
-| Insect | PureScript | https://github.com/sharkdp/insect |
-| Units | JavaScript | https://github.com/dohliam/units |
-| Smart Units | Sidef | https://github.com/trizen/smart-units |
-| Chimp | Python | https://github.com/mhetrerajat/chimp |
-| XamConverter | C# | https://github.com/brminnick/XamConverter |
-| UnitConverter | Java | https://github.com/nevack/UnitConverter |
-| Convertee | JavaScript | https://github.com/isquaredcreative/Convertee |
-| Conversion Calculator | C++ | https://github.com/dtuivs/Converter |
-| M2py | Python/Matlab | https://github.com/caiorss/m2py |
-| Scaler | Shell | https://github.com/emugel/scaler |
-| Praktool | Python | https://github.com/zombofant/praktool |
-| qMetrics | C++ | https://launchpad.net/qmetrics |
-| SimpleUnitConverter | C | https://launchpad.net/simpleunitconverter |
-| Enhancing User Experience - Part 1: A Simple Unit Converter Application | C# | https://www.codeproject.com/Articles/6667/Enhancing-User-Experience-Part-A-Simple-Unit-Con |
-| Libre Unit Conveter | C# | https://sourceforge.net/projects/libreunitconverter/?source=directory |
-| ConvertAll | Python | https://sourceforge.net/projects/convertall/?source=directory |
-| JFX Konwerter | Java | https://sourceforge.net/projects/jfx-konwerter/?source=directory |
-| Unit Converter | Scratch | https://sourceforge.net/projects/unitconverter12/?source=directory |
-| MAIA Unit Converter | C++ | https://sourceforge.net/projects/maia-unit-conv/?source=directory |
-| Unit Conveter | C# | https://sourceforge.net/projects/unitconversion/?source=directory |
-| Converter | Java | https://sourceforge.net/projects/con-vert/?source=directory |
-| LibreEngineering | Python | https://sourceforge.net/projects/libreeng/ |
-| UNeedIT Converter | C# | https://sourceforge.net/projects/uneedconverter/?source=directory |
-| Unit Converter | Python | https://sourceforge.net/projects/unit-converter/?source=directory |
-| Portable Unit Converter | JavaScript | https://sourceforge.net/projects/puc/?source=directory |
-| Web Unit Converter | C# | https://sourceforge.net/projects/web-unit-converter/?source=directory |
-| ChemicalA | C++ | https://sourceforge.net/projects/chemicala/?source=directory |
-| Computing with Units | Java | https://sourceforge.net/projects/units-in-java/?source=directory |
-| EngineeringCalculator | C++ | https://sourceforge.net/projects/alwaysontopcalc/?source=directory |
-| Quick Unit Converter | Java | https://sourceforge.net/projects/qunitconverter/?source=directory |
-| Unit Converter | REBOL | https://sourceforge.net/projects/tbunitconverter/?source=directory |
-| ConverTo | C++ | https://sourceforge.net/projects/converto/?source=directory |
-| UConverter | Java | https://sourceforge.net/projects/uconverter/?source=directory |
-| GodSend | PHP | https://sourceforge.net/projects/godsend/?source=directory |
-| JConvert | Java | https://sourceforge.net/projects/jconvert/?source=directory |
-| SIMConverter | C# | https://sourceforge.net/projects/simconverter/?source=directory |
-| Esos | C++ | https://sourceforge.net/projects/esos/?source=directory |
-| Punits - Pluggable units | C | https://sourceforge.net/projects/punits/?source=directory |
-| BeConverter | C++ | https://bitbucket.org/Teknomancer/beconverter |
-| Unit | Java | https://bitbucket.org/hansolo/unit |
-| Unit-converter (#1) | Python | https://bitbucket.org/brayvasq/unit-converter |
-| Physics | Python | https://bitbucket.org/hppavilion1/physics |
-| Frinj | Clojure | https://github.com/martintrojer/frinj |
-| Converter | Java | https://github.com/samWson/converter |
-| SimpleMeasurementConverter | Java | https://github.com/michaelstoops/SimpleMeasurementConverter |
-| Converter | C++ | https://github.com/dtalaba/convertor |
-| Frins | Scala | https://github.com/martintrojer/frins |
-| MeasurementConverter | Java | https://github.com/SBrooks75/MeasurementConverter |
-| UnitConverter | Java | https://github.com/MarioDudjak/UnitConverter |
-| Maser | JavaScript/Python | https://github.com/justinbangerter/maser |
-| JC-Units | Python | https://github.com/jason0x43/jc-units |
-| UnitConverterUltimate | Java | https://github.com/physphil/UnitConverterUltimate |
-| Units | Java | https://github.com/xxv/Units |
-| Unit-Converter | JavaScript | https://github.com/TheMarco/Unit-Converter |
-| Alfred-Converter | Python | https://github.com/WoLpH/alfred-converter |
-| UnitConverter.htm | JavaScript | https://github.com/iterami/UnitConverter.htm |
-| UnitConverter | Java | https://github.com/impateljay/UnitConverter |
-| Unit-Converter | Java | https://github.com/AmitKumarSah/Unit-Converter |
-| PythonUnitConverter | Python | https://github.com/Aaron1011/PythonUnitConverter |
-| Converter| Java | https://github.com/HanSolo/converter |
-| Mather | Java | https://github.com/icasdri/Mather |
-| Vandelay | C++ | https://github.com/HaikuArchives/Vandelay |
-| Unit-Converter | PHP | https://github.com/b-sebastian/unit-converter |
-| Unit-Converter | C++ | https://github.com/mikeleppane/Unit-Converter |
-| Unit-Converter | JavaScript | https://github.com/MaicolBen/unit-converter |
-| Unit | PHP | https://github.com/pounard/Unit |
-| Converter | C++ | https://github.com/KerryL/Converter |
-| Angular-Converter | JavaScript | https://github.com/cyrilf/angular-converter |
-| PreciseUnitConverter | JavaScript | https://github.com/bumxu/PreciseUnitConverter |
-| Converter | TypeScript | https://github.com/ialex90/Converter |
-| DakaUnitConverter | Java | https://github.com/darrylfonseka/DakaUnitConverter |
-| Convertor | C++ | https://github.com/mihaelateo/Convertor |
-| Converter | C++ | https://github.com/scruff3y/Converter |
-| Unit-Converter | JavaScript | https://github.com/GTLook/Unit-Converter |
-| UnitMan | C# | https://github.com/mbeloshapkin/UnitMan |
-| PyUnitConverter | Python | https://github.com/jyri78/PyUnitConverter |
-| All_In_One_Converter | Python | https://github.com/pradeepjairamani/All_in_one_converter |
-| ConverterApp | C# | https://github.com/halezmo/ConverterApp |
 | Alfred-Convert | Python | https://github.com/deanishe/alfred-convert |
-| Xiny | Go | https://github.com/bcicen/xiny |
+| Alfred-Converter | Python | https://github.com/WoLpH/alfred-converter |
+| All_In_One_Converter | Python | https://github.com/pradeepjairamani/All_in_one_converter |
+| Angular-Converter | JavaScript | https://github.com/cyrilf/angular-converter |
+| BeConverter | C++ | https://bitbucket.org/Teknomancer/beconverter |
+| ChemicalA | C++ | https://sourceforge.net/projects/chemicala/?source=directory |
+| Chimp | Python | https://github.com/mhetrerajat/chimp |
+| Computing with Units | Java | https://sourceforge.net/projects/units-in-java/?source=directory |
+| Conversion Calculator | C++ | https://github.com/dtuivs/Converter |
+| ConvertAll | Python | https://sourceforge.net/projects/convertall/?source=directory |
+| Convertee | JavaScript | https://github.com/isquaredcreative/Convertee |
+| Converter | C++ | https://github.com/KerryL/Converter |
+| Converter  | Java | https://sourceforge.net/projects/con-vert/?source=directory |
+| Converter  | TypeScript | https://github.com/ialex90/Converter |
+| Converter  | C++ | https://github.com/scruff3y/Converter |
+| Converter | Java | https://github.com/samWson/converter |
+| Converter | C++ | https://github.com/dtalaba/convertor |
+| Converter  | Java | https://github.com/HanSolo/converter |
+| ConverterApp | C# | https://github.com/halezmo/ConverterApp |
+| ConverTo | C++ | https://sourceforge.net/projects/converto/?source=directory |
+| Convertor | C++ | https://github.com/mihaelateo/Convertor |
+| DakaUnitConverter | Java | https://github.com/darrylfonseka/DakaUnitConverter |
+| EngineeringCalculator | C++ | https://sourceforge.net/projects/alwaysontopcalc/?source=directory |
+| Enhancing User Experience - Part 1: A Simple Unit Converter Application | C# | https://www.codeproject.com/Articles/6667/Enhancing-User-Experience-Part-A-Simple-Unit-Con |
+| Esos | C++ | https://sourceforge.net/projects/esos/?source=directory |
+| Frinj | Clojure | https://github.com/martintrojer/frinj |
+| Frins | Scala | https://github.com/martintrojer/frins |
 | GenUnitApp | JavaScript | https://github.com/halcwb/GenUnitApp |
-| Unitconverter-Android | Java | https://github.com/dbrant/unitconverter-android |
-| Unit_Conversion | Python | https://github.com/bastihaase/unit_conversion |
-| UnitConversion | Java | https://github.com/yfl007/UnitConversion |
-| Unit-Conversion | JavaScript | https://github.com/srimanthk/unit-conversion |
 | GNU Units | C# | https://www.gnu.org/software/units/ |
+| GodSend | PHP | https://sourceforge.net/projects/godsend/?source=directory |
+| Insect | PureScript | https://github.com/sharkdp/insect |
+| JC-Units | Python | https://github.com/jason0x43/jc-units |
+| JConvert | Java | https://sourceforge.net/projects/jconvert/?source=directory |
+| JFX Konwerter | Java | https://sourceforge.net/projects/jfx-konwerter/?source=directory |
+| Libre Unit Conveter | C# | https://sourceforge.net/projects/libreunitconverter/?source=directory |
+| LibreEngineering | Python | https://sourceforge.net/projects/libreeng/ |
+| M2py | Python/Matlab | https://github.com/caiorss/m2py |
+| MAIA Unit Converter | C++ | https://sourceforge.net/projects/maia-unit-conv/?source=directory |
+| Maser | JavaScript/Python | https://github.com/justinbangerter/maser |
+| Mather | Java | https://github.com/icasdri/Mather |
+| MeasurementConverter | Java | https://github.com/SBrooks75/MeasurementConverter |
+| NumericalUnits | Python | https://github.com/sbyrnes321/numericalunits |
+| ParamPool | Python | https://github.com/hplgit/parampool |
+| Phriky-Units | Python | https://github.com/unl-nimbus-lab/phriky-units |
+| Physics | Python | https://bitbucket.org/hppavilion1/physics |
+| Portable Unit Converter | JavaScript | https://sourceforge.net/projects/puc/?source=directory |
+| Praktool | Python | https://github.com/zombofant/praktool |
+| PreciseUnitConverter | JavaScript | https://github.com/bumxu/PreciseUnitConverter |
+| Punits - Pluggable units | C | https://sourceforge.net/projects/punits/?source=directory |
+| PythonUnitConverter | Python | https://github.com/Aaron1011/PythonUnitConverter |
+| PyUnitConverter | Python | https://github.com/jyri78/PyUnitConverter |
+| qMetrics | C++ | https://launchpad.net/qmetrics |
+| Quick Unit Converter | Java | https://sourceforge.net/projects/qunitconverter/?source=directory |
+| Rink | Rust | https://github.com/tiffany352/rink-rs |
+| Scaler | Shell | https://github.com/emugel/scaler |
+| SIMConverter | C# | https://sourceforge.net/projects/simconverter/?source=directory |
+| SimpleMeasurementConverter | Java | https://github.com/michaelstoops/SimpleMeasurementConverter |
+| SimpleUnitConverter | C | https://launchpad.net/simpleunitconverter |
+| Smart Units | Sidef | https://github.com/trizen/smart-units |
+| UConverter | Java | https://sourceforge.net/projects/uconverter/?source=directory |
+| UNeedIT Converter | C# | https://sourceforge.net/projects/uneedconverter/?source=directory |
+| Unit | PHP | https://github.com/pounard/Unit |
+| Unit | Java | https://bitbucket.org/hansolo/unit |
+| Unit Converter  | Scratch | https://sourceforge.net/projects/unitconverter12/?source=directory |
+| Unit Converter  | Python | https://sourceforge.net/projects/unit-converter/?source=directory |
+| Unit Converter | REBOL | https://sourceforge.net/projects/tbunitconverter/?source=directory |
+| Unit Conveter  | C# | https://sourceforge.net/projects/unitconversion/?source=directory |
+| Unit_Conversion | Python | https://github.com/bastihaase/unit_conversion |
+| Unit-Conversion | JavaScript | https://github.com/srimanthk/unit-conversion |
+| Unit-Converter | JavaScript | https://github.com/GTLook/Unit-Converter |
+| Unit-converter  | Python | https://bitbucket.org/brayvasq/unit-converter |
+| Unit-Converter | JavaScript | https://github.com/TheMarco/Unit-Converter |
+| Unit-Converter  | Java | https://github.com/AmitKumarSah/Unit-Converter |
+| Unit-Converter  | PHP | https://github.com/b-sebastian/unit-converter |
+| Unit-Converter | C++ | https://github.com/mikeleppane/Unit-Converter |
+| Unit-Converter  | JavaScript | https://github.com/MaicolBen/unit-converter |
+| UnitConversion  | Java | https://github.com/yfl007/UnitConversion |
+| UnitConverter  | Java | https://github.com/nevack/UnitConverter |
+| UnitConverter  | Java | https://github.com/MarioDudjak/UnitConverter |
+| UnitConverter | Java | https://github.com/impateljay/UnitConverter |
+| Unitconverter-Android | Java | https://github.com/dbrant/unitconverter-android |
+| UnitConverter.htm | JavaScript | https://github.com/iterami/UnitConverter.htm |
+| UnitConverterUltimate | Java | https://github.com/physphil/UnitConverterUltimate |
+| UnitMan | C# | https://github.com/mbeloshapkin/UnitMan |
+| Units | Java | https://github.com/xxv/Units |
+| Units | JavaScript | https://github.com/dohliam/units |
+| Vandelay | C++ | https://github.com/HaikuArchives/Vandelay |
+| Web Unit Converter | C# | https://sourceforge.net/projects/web-unit-converter/?source=directory |
+| XamConverter | C# | https://github.com/brminnick/XamConverter |
+| Xiny | Go | https://github.com/bcicen/xiny |
 
 ## All projects
 | Name | Language | Valid project? | Source / URL |
