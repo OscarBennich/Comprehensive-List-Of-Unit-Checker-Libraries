@@ -19,7 +19,7 @@ The most relevant results of the study (the top tier group) is presented first i
 If you have any questions or thoughts you can contact me at: oscar.bennich@gmail.com
 
 If you would like to read more, the master thesis can be found here: http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-353817 
-and the paper can be found here: [To be added]
+and the paper can be found here: [Coming soon]
 
 ## Data gathering information
 The data presented here was gathered from seven sites, using eight different keywords. More detailed information about this process can be found in either the thesis or the paper. The sites and keywords are found below. 
