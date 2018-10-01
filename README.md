@@ -139,220 +139,220 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 ## Second tier libraries 
 | Name | Language | Source / URL |
 |------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------|
-| Convert Units | Java | https://github.com/ben-ng/convert-units |
-| Unit  | Go | https://github.com/martinlindhe/unit |
-| UnitConversionLib | C# | https://www.codeproject.com/Articles/787029/UnitConversionLib-Smart-Unit-Conversion-Library-in |
-| Natu | Python | https://github.com/kdavies4/natu |
-| Buckingham | Python | https://github.com/mdipierro/buckingham |
-| Magnitude  | Python | https://github.com/juanre/magnitude |
-| Units | Python | https://bitbucket.org/adonohue/units |
-| Unum | Python | https://bitbucket.org/kiv/unum |
-| CF_Units | Python | https://github.com/SciTools/cf_units |
-| DimPy | Python | http://www.inference.org.uk/db410/dimpy/docs/docs/docs.html |
-| Units of Measure | C# | https://archive.codeplex.com/?p=unitsofmeasure |
-| Physical Measure | C# | https://github.com/KiloBravoLima/PhysicalMeasure |
-| NGenericDimensions | C# | https://github.com/MafuJosh/NGenericDimensions |
-| Quantities.net | C# | https://sourceforge.net/projects/quantitiesnet/ |
 | .NET Unit Conversion Library | C# | https://sourceforge.net/projects/unitcon/ |
-| Measurement Unit Conversion Library  | C# | https://www.codeproject.com/Articles/23087/Measurement-Unit-Conversion-Library |
-| Unit of Measure Library for .NET | C# | https://www.codeproject.com/Articles/404573/Units-of-Measure-Library-for-NET |
-| Unit of Measure Validator for C# | C# | https://www.codeproject.com/Articles/413750/Units-of-Measure-Validator-for-Csharp |
-| Units of Measurement Systems | Java | https://github.com/unitsofmeasurement/uom-systems |
-| Units | Java | https://github.com/SamCarlberg/units |
-| Units | C# | https://github.com/engineers-tools/Units |
-| PHP Unit Conversion | PHP | https://github.com/pimlie/php-unit-conversion |
-| The Units of Measure Library | C++ | https://sourceforge.net/projects/tuoml/ |
-| Metric | Rust | https://github.com/coder543/metric |
-| ScalaU | Scala | https://github.com/adrianfr/scalau |
-| Units | Go | https://github.com/smyrman/units |
-| Superquants | Scala | https://github.com/rudogma/scala-superquants |
-| Metric | Nim | https://github.com/mjendrusch/metric |
-| Units D | D | https://github.com/nordlow/units-d |
-| Units and Measurements | Racket | https://github.com/Metaxal/measures |
-| SIUnits | Haskell | https://github.com/joewkr/SIUnits |
-| Physikal | Kotlin | https://github.com/Tenkiv/Physikal |
-| Engineering | C# | https://github.com/zhofre/engineering |
-| ProgParam | C++ | https://github.com/qPCR4vir/ProgParam |
-| InkUnits | Swift | https://github.com/angelsolaorbaiceta/InkUnits |
-| Ruby Units | Ruby | https://github.com/olbrich/ruby-units |
-| SwiftMeasurement | Swift | https://github.com/ken0nek/SwiftMeasurement |
-| JNum | Java | https://github.com/attipaci/jnum |
-| MagickScience | C++ | https://github.com/Iarfen/MagickScience |
-| Unit.py | Python | https://github.com/fabian0010/Unit.py |
-| Libquantify | C++ | https://github.com/damianorenfer/libquantify |
-| Constants and Units | MatLab | https://github.com/mariomerinomartinez/constants_and_units |
-| UOM-Domain | Java | https://github.com/unitsofmeasurement/uom-domain |
-| Units | C# | https://github.com/LabyrinthApps/Units |
-| Scale | Swift | https://github.com/onmyway133/Scale |
-| SIConv | Haskell | https://github.com/owainlewis/conventional-si-unit-converter |
-| Convert | Swift | https://github.com/danielbyon/Convert |
-| Converter (#1) | PHP | https://github.com/cartalyst/converter |
-| Quantify | Ruby | https://github.com/spatchcock/quantify |
-| UOM | Ruby | https://github.com/madriska/uom |
-| VUnits | Java | https://github.com/vaslabs/vunits |
-| PhysicalQuantities (#2) | C# | https://github.com/timdetering/PhysicalQuantities |
-| PhysicalQuantities (#5) | Haskell | https://github.com/fehu/PhysicalQuantities |
-| Python-Physical | Python | https://github.com/EdwinChan/python-physical |
-| PhysicalValue | Swift | https://github.com/antonvmironov/PhysicalValue |
-| Lathexa Units | JavaScript | https://github.com/lethexa/lethexa-units |
-| Units.jl | Julia | https://github.com/autocorr/Units.jl |
-| Units | Go | https://github.com/zn8nz/units |
-| AutoUnits | C++ | https://github.com/Fifty-Nine/AutoUnits |
-| Physical Math | Python | https://github.com/matthagy/physmath |
-| Dimanalyser | Java | https://github.com/cymi/dimanalyser |
-| Dftu | C++ | https://github.com/triblatron/dftu |
-| Physcon | Python | https://github.com/georglind/physcon |
-| Units-v2 | C++ | https://github.com/Corristo/units-v2 |
-| UDUnits | Julia | https://github.com/Alexander-Barth/UDUnits.jl |
-| Quantity.Net | C# | https://github.com/bcachet/Quantity.Net |
-| UnitManipulationLibrary | C++ | https://github.com/OuaisBla/UnitManipulationLibrary |
-| Dimension-TF | Haskell | https://github.com/nushio3/dimensional-tf |
-| Phys-Types | C++ | https://github.com/akubera/phys_types |
-| Unit | C++/CMake/Python | https://github.com/njoy/unit |
-| ValueWithUnit | C# | https://github.com/vbfox/ValueWithUnit |
-| o2scl | C | https://github.com/awsteiner/o2scl |
-| Decibel Units of Measurement with C# Framework | C# | https://www.codeproject.com/Articles/1236193/Decibel-Units-of-Measurement-with-Csharp-Framework |
-| Quantities, Units, and Values: An Object Oriented Implementation | C | https://www.codeproject.com/Articles/216191/Quantities-Units-and-Values-an-Object-Oriented-Imp |
-| Automatic Conversion of Physical Units | C# | https://www.codeproject.com/Articles/714545/Automatic-Conversion-of-Physical-Units |
-| TCX Unit Conversion Library | C++ | https://www.codeproject.com/Articles/103/TCX-Unit-Conversion-Library |
-| Measurement Unit Conversion Library (#2) | C# | https://www.codeproject.com/Articles/662335/Measurement-Unit-Conversion-Library |
-| International System of Units Notation | C# | https://www.codeproject.com/Tips/869419/International-System-of-Units-Notation |
-| Converting a value to an SI Unit String | C# | https://www.codeproject.com/Tips/414254/Converting-a-value-to-an-SI-unit-string |
-| Unit Management Framework | Java | https://sourceforge.net/projects/quantitymanager/?source=directory |
-| UOM Conversion Library | Java | https://sourceforge.net/projects/uomcl/?source=directory |
-| NumericalChameleon | Java | https://sourceforge.net/projects/numchameleon/?source=directory |
-| Libunits | C | https://sourceforge.net/projects/libunits/?source=directory |
-| Quantities | C++ | https://sourceforge.net/projects/quantity/?source=directory |
-| Magnitude | Java | https://sourceforge.net/projects/magnitude/?source=directory |
-| PyPhys Class Library | Python | https://sourceforge.net/projects/pyphys/?source=directory |
-| Physical | C++ | https://sourceforge.net/projects/physical/?source=directory |
-| mcs::units | C++ | https://sourceforge.net/projects/mcs-units/?source=directory |
-| Quan | C++ | https://sourceforge.net/projects/quan/?source=directory |
-| Unum | Python | https://sourceforge.net/projects/unum/?source=directory |
-| puny | Python | https://sourceforge.net/projects/puny/?source=directory |
-| JQuantity: Precision Math Java Framework | Java | https://sourceforge.net/projects/jquantity/?source=directory |
-| Java library and framework: quantity | Java | https://sourceforge.net/projects/javaquantity/?source=directory |
-| PhysicalUnits | C++ | https://sourceforge.net/projects/physicalunits/?source=directory |
-| QUDAL | C++ | https://sourceforge.net/projects/qudal/?source=directory |
-| C++ Unit Library | C++ | https://sourceforge.net/projects/cppunitlibrary/?source=directory |
-| UnitsC++ | C++ | https://sourceforge.net/projects/unitscpp/?source=directory |
-| C++ Units | C++ | https://sourceforge.net/projects/cppunits/?source=directory |
-| Unit Var | Python | https://sourceforge.net/projects/unitvar/?source=directory |
-| Java Measure | Java | https://sourceforge.net/projects/javameasure/?source=directory |
-| Python Unit Conversion Library | Python | https://sourceforge.net/projects/pythonconvert/?source=directory |
 | .NET Unit Conversion Library | C# | https://sourceforge.net/projects/unitcon/?source=directory |
 | .NET Units of Measure | C# | https://bitbucket.org/Thecentury/.net-units-of-measure |
-| Measurement.js | JavaScript | https://github.com/Philzen/measurement.js |
-| UnitsKit | Objective-C | https://github.com/stevemoser/UnitsKit |
-| Units-of-Measure (#1) | Scala | https://github.com/Mononofu/Units-of-Measure |
-| Units | Rust | https://github.com/Boddlnagg/units |
-| FSharp.Units | F# | https://github.com/putridparrot/FSharp.Units |
-| Units | Scala | https://github.com/nestorpersist/units |
-| Python-Units-Of-Measure | Python | https://github.com/katerina7479/python-units-of-measure |
-| IMT.Units | Java | https://github.com/imt-ag/imt.units-java |
-| PHPMeasures | PHP | https://github.com/dcabanaw/phpMeasures |
-| PHP-Units | PHP | https://github.com/hiqdev/php-units |
-| Cuis-Smalltalk-Aconcagua | Smalltalk | https://github.com/hernanwilkinson/Cuis-Smalltalk-Aconcagua |
-| Measurements | PHP | https://github.com/marfurt/measurements |
-| UnitsOfMeasureBundle | PHP | https://github.com/PhpUnitsOfMeasure/UnitsOfMeasureBundle |
-| UnitsOfMeasure | C# | https://github.com/capnmidnight/UnitsOfMeasure |
-| Units | PHP | https://github.com/ARCANEDEV/Units |
-| Units_of_measure | C++ | https://github.com/Skeen/units_of_measure |
-| Units | Go | https://github.com/antha-lang/units |
-| Units of Measure Prototype | Haskell | https://github.com/adamgundry/uom-prototype |
-| Uom.Dart | Dart | https://github.com/damondouglas/uom.dart |
-| RockUnits | C# | https://github.com/gareth-reid/RockUnits |
-| TundraMeasure.java | Java | https://github.com/Permafrost/TundraMeasure.java |
-| Units | PHP | https://github.com/marando/Units |
-| UnitOfMeasure (#1) | C# | https://github.com/Chef-Code/UnitOfMeasure |
-| Units-api | PHP | https://github.com/shrimpza/units-api |
-| cppDegRad | C++ | https://github.com/grahamboree/cppDegRad |
-| Unit| VB .NET | https://github.com/AdamSpeight2008/Unit |
-| Simple.Units | C# | https://github.com/oriches/Simple.Units |
-| Class-Measure | Perl | https://github.com/bluefeet/Class-Measure |
-| Measurements | Ruby | https://github.com/Krustal/Measurements |
-| Purescript-Units | PureScript | https://github.com/fluffynukeit/purescript-units |
-| GenUnits | F# | https://github.com/halcwb/GenUnits |
-| Ruby-Units | Ruby | https://github.com/davearonson/Ruby-Units |
-| JavaMeasure | Java | https://github.com/tkuebler/JavaMeasure |
-| AS3Units | ActionScript | https://github.com/erussell/AS3Units |
-| PHPConverter | PHP | https://github.com/chapmang/PHPConverter |
-| NGX-UOM | JavaScript | https://github.com/catellanir/ngx-uom |
-| Physical Quantities | Smalltalk/C# | https://github.com/timdetering/PhysicalQuantities |
-| GIM.Quantities | C# | https://github.com/togakangaroo/GIM.Quantities |
-| JUNitConv | Java | https://github.com/duckler/JUnitConv |
-| Dimensional | Ruby | https://github.com/cch1/Dimensional |
-| UnitOfMeasure (#2) | Scala | https://github.com/ricemery/unitofmeasure |
-| Umpy | Python | https://github.com/perdixsw/umpy |
-| SBUnits | Swift | https://github.com/EBGToo/SBUnits |
-| Units | Haskell | https://github.com/goldfirere/units |
-| DDUnitConverter | Objective-C | https://github.com/davedelong/DDUnitConverter |
-| PHP-Conversion | PHP | https://github.com/crisu83/php-conversion |
-| SIUnitX | TeX | https://github.com/josephwright/siunitx |
-| Units | Scala | https://github.com/KarolS/units |
-| SI-Units | Java | https://github.com/unitsofmeasurement/si-units |
-| Conversion| PHP | https://github.com/abhimanyu003/conversion |
-| UnitConverter| Python | https://github.com/mattgd/UnitConverter |
-| Unit-converter | PHP | https://github.com/jordanbrauer/unit-converter |
-| HHUnitConverter | Objective-C | https://github.com/HiveHicks/HHUnitConverter |
 | Angular-Unit-Converter | JavaScript | https://github.com/alexandernst/angular-unit-converter |
-| UnitConverterWin | C | https://github.com/NikolaiTyrMDS/UnitConverterWin |
-| UnitConversion | Objective-C | https://github.com/unixpickle/UnitConversion |
+| AS3Units | ActionScript | https://github.com/erussell/AS3Units |
+| Automatic Conversion of Physical Units | C# | https://www.codeproject.com/Articles/714545/Automatic-Conversion-of-Physical-Units |
+| AutoUnits | C++ | https://github.com/Fifty-Nine/AutoUnits |
+| Buckingham | Python | https://github.com/mdipierro/buckingham |
+| C++ Unit Library | C++ | https://sourceforge.net/projects/cppunitlibrary/?source=directory |
+| C++ Units | C++ | https://sourceforge.net/projects/cppunits/?source=directory |
+| CF_Units | Python | https://github.com/SciTools/cf_units |
+| Class-Measure | Perl | https://github.com/bluefeet/Class-Measure |
+| Constants and Units | MatLab | https://github.com/mariomerinomartinez/constants_and_units |
+| Conversion | PHP | https://github.com/abhimanyu003/conversion |
+| Conversion | C++ | https://github.com/simonmeaden/conversion |
+| Conversionr | R | https://github.com/alexnakagawa/conversionr |
+| Convert | Swift | https://github.com/danielbyon/Convert |
+| Convert Units | Java | https://github.com/ben-ng/convert-units |
+| Convert-Quantities | JavaScript | https://github.com/kendru/convert-quantities |
+| Convert-units | Ruby | https://github.com/tanvir002700/convert_unit |
+| Convert.js | JavaScript | https://github.com/YazilimMuhendisiyizBiz/convert.js |
+| Converter | PHP | https://github.com/cartalyst/converter |
+| Converting a value to an SI Unit String | C# | https://www.codeproject.com/Tips/414254/Converting-a-value-to-an-SI-unit-string |
+| Convertr | R | https://github.com/ropenscilabs/convertr |
+| convertR | R | https://github.com/colin-fraser/convertR |
+| cppDegRad | C++ | https://github.com/grahamboree/cppDegRad |
 | Cropio_Units_Converter | C++ | https://github.com/cropio/cropio_units_converter |
-| Quantity | Ruby | https://github.com/bhuga/quantity |
-| UDUNITS-2 | C | https://github.com/Unidata/UDUNITS-2 |
-| Quantities | Swift | https://github.com/BradLarson/Quantities |
-| PhysicalQuantities | Python | https://github.com/juhasch/PhysicalQuantities |
-| Quantities | R | https://github.com/r-quantities/quantities |
-| ScientificQuantities | C++ | https://github.com/nourani/ScientificQuantities |
+| Cuis-Smalltalk-Aconcagua | Smalltalk | https://github.com/hernanwilkinson/Cuis-Smalltalk-Aconcagua |
+| DDUnitConverter | Objective-C | https://github.com/davedelong/DDUnitConverter |
+| Decibel Units of Measurement with C# Framework | C# | https://www.codeproject.com/Articles/1236193/Decibel-Units-of-Measurement-with-Csharp-Framework |
+| Dftu | C++ | https://github.com/triblatron/dftu |
+| Dimanalyser | Java | https://github.com/cymi/dimanalyser |
+| Dimension-TF | Haskell | https://github.com/nushio3/dimensional-tf |
+| Dimensional | Ruby | https://github.com/cch1/Dimensional |
+| DimPy | Python | http://www.inference.org.uk/db410/dimpy/docs/docs/docs.html |
+| Django-Unit-Field | Python | https://github.com/kohout/django-unit-field |
+| Engineering | C# | https://github.com/zhofre/engineering |
+| FSharp.Units | F# | https://github.com/putridparrot/FSharp.Units |
+| GenUnits | F# | https://github.com/halcwb/GenUnits |
+| GIM.Quantities | C# | https://github.com/togakangaroo/GIM.Quantities |
+| Gorilla | Ruby | https://github.com/stephencelis/gorilla |
+| HHUnitConverter | Objective-C | https://github.com/HiveHicks/HHUnitConverter |
+| IMT.Units | Java | https://github.com/imt-ag/imt.units-java |
+| InkUnits | Swift | https://github.com/angelsolaorbaiceta/InkUnits |
+| International System of Units Notation | C# | https://www.codeproject.com/Tips/869419/International-System-of-Units-Notation |
+| Java library and framework: quantity | Java | https://sourceforge.net/projects/javaquantity/?source=directory |
+| Java Measure | Java | https://sourceforge.net/projects/javameasure/?source=directory |
+| JavaMeasure | Java | https://github.com/tkuebler/JavaMeasure |
+| JNum | Java | https://github.com/attipaci/jnum |
+| JQuantity: Precision Math Java Framework | Java | https://sourceforge.net/projects/jquantity/?source=directory |
+| JSR 275 | Java | https://github.com/unitsofmeasurement/jsr-275/tree/master/src/main/java |
+| Jsunitconverter | JavaScript | https://github.com/jerodvenemafm/jsunitconverter |
+| JUNitConv | Java | https://github.com/duckler/JUnitConv |
+| Lathexa Units | JavaScript | https://github.com/lethexa/lethexa-units |
+| Libquantify | C++ | https://github.com/damianorenfer/libquantify |
+| Libunits | C | https://sourceforge.net/projects/libunits/?source=directory |
+| Maegor | JavaScript | https://github.com/lukaskollmer/maegor |
+| MagickScience | C++ | https://github.com/Iarfen/MagickScience |
+| Magnitude (#1) | Python | https://github.com/juanre/magnitude |
+| Magnitude (#2) | Java | https://sourceforge.net/projects/magnitude/?source=directory |
+| Math-units | Perl | https://github.com/kenfox/Math-Units |
+| mcs::units | C++ | https://sourceforge.net/projects/mcs-units/?source=directory |
+| MeasureBundle | PHP | https://github.com/akeneo/MeasureBundle |
+| Measurement Unit Conversion Library | C# | https://www.codeproject.com/Articles/23087/Measurement-Unit-Conversion-Library |
+| Measurement Unit Conversion Library | C# | https://www.codeproject.com/Articles/662335/Measurement-Unit-Conversion-Library |
+| Measurement.js | JavaScript | https://github.com/Philzen/measurement.js |
+| Measurements | PHP | https://github.com/marfurt/measurements |
+| Measurements | Ruby | https://github.com/Krustal/Measurements |
+| Meteor-Quantities | JavaScript | https://github.com/luzlab/meteor-quantities |
+| Metiri | JavaScript | https://github.com/GCheung55/metiri |
+| Metric | Java | https://github.com/gnapse/metric |
+| Metric | Rust | https://github.com/coder543/metric |
+| Metric | Nim | https://github.com/mjendrusch/metric |
+| Natu | Python | https://github.com/kdavies4/natu |
+| NGenericDimensions | C# | https://github.com/MafuJosh/NGenericDimensions |
+| NGunits | Java | https://github.com/erussell/ngunits |
+| NGX-UOM | JavaScript | https://github.com/catellanir/ngx-uom |
+| Node-units | JavaScript | https://github.com/brettlangdon/node-units |
+| NumericalChameleon | Java | https://sourceforge.net/projects/numchameleon/?source=directory |
+| o2scl | C | https://github.com/awsteiner/o2scl |
+| PHP Unit Conversion | PHP | https://github.com/pimlie/php-unit-conversion |
+| PHP-Conversion | PHP | https://github.com/crisu83/php-conversion |
+| PHP-Units | PHP | https://github.com/hiqdev/php-units |
+| PHPConverter | PHP | https://github.com/chapmang/PHPConverter |
+| PHPMeasures | PHP | https://github.com/dcabanaw/phpMeasures |
+| Phys-Types | C++ | https://github.com/akubera/phys_types |
+| Physcon | Python | https://github.com/georglind/physcon |
+| Physical | C++ | https://sourceforge.net/projects/physical/?source=directory |
+| Physical | C++ | https://github.com/olsonse/physical |
+| Physical Math | Python | https://github.com/matthagy/physmath |
+| Physical Measure | C# | https://github.com/KiloBravoLima/PhysicalMeasure |
+| Physical Quantities | Smalltalk/C# | https://github.com/timdetering/PhysicalQuantities |
 | Physical-Quantities | Python | https://github.com/hplgit/physical-quantities |
-| ScalaQuantity | Scala | https://github.com/zzorn/ScalaQuantity |
+| PhysicalQuantities | Python | https://github.com/juhasch/PhysicalQuantities |
+| PhysicalQuantities | C# | https://github.com/timdetering/PhysicalQuantities |
+| PhysicalQuantities | Haskell | https://github.com/fehu/PhysicalQuantities |
+| PhysicalUnits | C++ | https://sourceforge.net/projects/physicalunits/?source=directory |
+| PhysicalValue | Swift | https://github.com/antonvmironov/PhysicalValue |
+| Physics-Measurement | JavaScript | https://github.com/victorpotasso/physics-measurement |
+| Physikal | Kotlin | https://github.com/Tenkiv/Physikal |
+| ProgParam | C++ | https://github.com/qPCR4vir/ProgParam |
+| puny | Python | https://sourceforge.net/projects/puny/?source=directory |
+| Purescript-Units | PureScript | https://github.com/fluffynukeit/purescript-units |
+| PyPhys Class Library | Python | https://sourceforge.net/projects/pyphys/?source=directory |
+| PyQuantity | Python | https://github.com/gabbpuy/PyQuantity |
+| Python Unit Conversion Library | Python | https://sourceforge.net/projects/pythonconvert/?source=directory |
+| Python-Physical | Python | https://github.com/EdwinChan/python-physical |
+| Python-Units-Of-Measure | Python | https://github.com/katerina7479/python-units-of-measure |
+| QtUnits | C++ | https://github.com/hrobeers/QtUnits |
+| Quan | C++ | https://sourceforge.net/projects/quan/?source=directory |
+| Quantified | Ruby | https://github.com/Shopify/quantified |
+| Quantify | Ruby | https://github.com/spatchcock/quantify |
+| Quantities | Swift | https://github.com/BradLarson/Quantities |
+| Quantities | R | https://github.com/r-quantities/quantities |
 | Quantities | C++ | https://github.com/djbarker/quantities |
-| Quantity | Ruby | https://github.com/aportnov/quantity |
 | Quantities | Batchfile | https://github.com/greatfriends/Quantities |
 | Quantities | C# | https://github.com/atmoos/Quantities |
-| Physics-Measurement | JavaScript | https://github.com/victorpotasso/physics-measurement |
-| PyQuantity | Python | https://github.com/gabbpuy/PyQuantity |
-| Sundew.Quantities | C# | https://github.com/hugener/Sundew.Quantities |
-| Meteor-Quantities | JavaScript | https://github.com/luzlab/meteor-quantities |
+| Quantities | C++ | https://sourceforge.net/projects/quantity/?source=directory |
+| Quantities, Units, and Values: An Object Oriented Implementation | C | https://www.codeproject.com/Articles/216191/Quantities-Units-and-Values-an-Object-Oriented-Imp |
+| Quantities.net | C# | https://sourceforge.net/projects/quantitiesnet/ |
+| Quantity | Ruby | https://github.com/bhuga/quantity |
+| Quantity | Ruby | https://github.com/aportnov/quantity |
 | Quantity | Clojure | https://github.com/spellman/quantity |
-| Convert-Quantities | JavaScript | https://github.com/kendru/convert-quantities |
-| UnitConversion | C# | https://github.com/gkampolis/UnitConversion |
-| Convert.js | JavaScript | https://github.com/YazilimMuhendisiyizBiz/convert.js |
-| MeasureBundle | PHP | https://github.com/akeneo/MeasureBundle |
-| Convertr | R | https://github.com/ropenscilabs/convertr |
-| Metric | Java | https://github.com/gnapse/metric |
-| Jsunitconverter | JavaScript | https://github.com/jerodvenemafm/jsunitconverter |
+| Quantity.Net | C# | https://github.com/bcachet/Quantity.Net |
+| QUDAL | C++ | https://sourceforge.net/projects/qudal/?source=directory |
+| RockUnits | C# | https://github.com/gareth-reid/RockUnits |
+| Ruby Units | Ruby | https://github.com/olbrich/ruby-units |
+| Ruby-Units | Ruby | https://github.com/davearonson/Ruby-Units |
+| SBUnits | Swift | https://github.com/EBGToo/SBUnits |
+| ScalaQuantity | Scala | https://github.com/zzorn/ScalaQuantity |
+| ScalaU | Scala | https://github.com/adrianfr/scalau |
+| Scale | Swift | https://github.com/onmyway133/Scale |
+| ScientificQuantities | C++ | https://github.com/nourani/ScientificQuantities |
+| SI-Units | Java | https://github.com/unitsofmeasurement/si-units |
+| SIConv | Haskell | https://github.com/owainlewis/conventional-si-unit-converter |
+| Simple.Units | C# | https://github.com/oriches/Simple.Units |
+| SIUnits (#1) | Haskell | https://github.com/joewkr/SIUnits |
+| SIUnitX | TeX | https://github.com/josephwright/siunitx |
 | Sius | Java | https://github.com/mbe24/sius |
+| Sundew.Quantities | C# | https://github.com/hugener/Sundew.Quantities |
+| Superquants | Scala | https://github.com/rudogma/scala-superquants |
+| SwiftMeasurement | Swift | https://github.com/ken0nek/SwiftMeasurement |
+| TCX Unit Conversion Library | C++ | https://www.codeproject.com/Articles/103/TCX-Unit-Conversion-Library |
+| The Units of Measure Library | C++ | https://sourceforge.net/projects/tuoml/ |
+| TundraMeasure.java | Java | https://github.com/Permafrost/TundraMeasure.java |
+| UDUnits | Julia | https://github.com/Alexander-Barth/UDUnits.jl |
+| UDUNITS-2 | C | https://github.com/Unidata/UDUNITS-2 |
+| Umpy | Python | https://github.com/perdixsw/umpy |
+| Unit | C++/CMake/Python | https://github.com/njoy/unit |
 | Unit | JavaScript | https://github.com/smartcar/unit |
-| Unit-formula | Common Lisp | https://github.com/Ramarren/unit-formula |
-| Node-units | JavaScript | https://github.com/brettlangdon/node-units |
-| Units.js | JavaScript | https://github.com/jairtrejo/units.js |
-| Units | C++ | https://github.com/lonkamikaze/units |
-| Unit.styl | JavaScript | https://github.com/diessica/unit.styl |
-| Conversionr | R | https://github.com/alexnakagawa/conversionr |
-| Math-units | Perl | https://github.com/kenfox/Math-Units |
-| UnitConvert | JavaScript | https://github.com/agnoster/unitology |
-| NGunits | Java | https://github.com/erussell/ngunits |
-| Units | Swift | https://github.com/chrisjeane/Units |
-| UnitConversion (#3) | Python | https://github.com/UnitConversion/unitConversion |
-| Metiri | JavaScript | https://github.com/GCheung55/metiri |
-| Convert-units | Ruby | https://github.com/tanvir002700/convert_unit |
-| Django-Unit-Field | Python | https://github.com/kohout/django-unit-field |
-| Units | PHP | https://github.com/rmasters/units |
+| Unit | Go | https://github.com/martinlindhe/unit |
+| Unit | VB .NET | https://github.com/AdamSpeight2008/Unit |
+| Unit Management Framework | Java | https://sourceforge.net/projects/quantitymanager/?source=directory |
+| Unit of Measure Library for .NET | C# | https://www.codeproject.com/Articles/404573/Units-of-Measure-Library-for-NET |
+| Unit of Measure Validator for C# | C# | https://www.codeproject.com/Articles/413750/Units-of-Measure-Validator-for-Csharp |
+| Unit Var | Python | https://sourceforge.net/projects/unitvar/?source=directory |
 | Unit_Conversion | Ruby | https://github.com/eternal44/unit_conversion |
-| Maegor | JavaScript | https://github.com/lukaskollmer/maegor |
-| Units-System | Ruby | https://github.com/jgoizueta/units-system |
-| Physical | C++ | https://github.com/olsonse/physical |
-| Conversion (#6) | C++ | https://github.com/simonmeaden/conversion |
-| Gorilla | Ruby | https://github.com/stephencelis/gorilla |
-| QtUnits | C++ | https://github.com/hrobeers/QtUnits |
+| Unit-converter | PHP | https://github.com/jordanbrauer/unit-converter |
+| Unit-formula | Common Lisp | https://github.com/Ramarren/unit-formula |
+| Unit.py | Python | https://github.com/fabian0010/Unit.py |
+| Unit.styl | JavaScript | https://github.com/diessica/unit.styl |
+| UnitConversion  | Objective-C | https://github.com/unixpickle/UnitConversion |
+| UnitConversion  | C# | https://github.com/gkampolis/UnitConversion |
+| UnitConversion | Python | https://github.com/UnitConversion/unitConversion |
+| UnitConversion  | C# | https://github.com/Mecteral/UnitConversion |
+| UnitConversionLib | C# | https://www.codeproject.com/Articles/787029/UnitConversionLib-Smart-Unit-Conversion-Library-in |
+| UnitConvert | JavaScript | https://github.com/agnoster/unitology |
+| UnitConverter  | Python | https://github.com/mattgd/UnitConverter |
+| UnitConverterWin | C | https://github.com/NikolaiTyrMDS/UnitConverterWin |
+| UnitManipulationLibrary | C++ | https://github.com/OuaisBla/UnitManipulationLibrary |
+| UnitOfMeasure | C# | https://github.com/Chef-Code/UnitOfMeasure |
+| UnitOfMeasure | Scala | https://github.com/ricemery/unitofmeasure |
+| Units | Go | https://github.com/zn8nz/units |
+| Units | Rust | https://github.com/Boddlnagg/units |
+| Units | Scala | https://github.com/nestorpersist/units |
+| Units | PHP | https://github.com/ARCANEDEV/Units |
+| Units | Go | https://github.com/antha-lang/units |
+| Units | PHP | https://github.com/marando/Units |
+| Units | Python | https://bitbucket.org/adonohue/units |
+| Units | Haskell | https://github.com/goldfirere/units |
+| Units | Scala | https://github.com/KarolS/units |
+| Units | C++ | https://github.com/lonkamikaze/units |
+| Units | Swift | https://github.com/chrisjeane/Units |
+| Units | Java | https://github.com/SamCarlberg/units |
+| Units | PHP | https://github.com/rmasters/units |
 | Units | Ruby | https://github.com/woahdae/units |
-| convertR | R | https://github.com/colin-fraser/convertR |
-| UnitConversion (#4) | C# | https://github.com/Mecteral/UnitConversion |
-| JSR 275 | Java | https://github.com/unitsofmeasurement/jsr-275/tree/master/src/main/java |
-| Quantified | Ruby | https://github.com/Shopify/quantified |
 | Units | Haskell | https://hackage.haskell.org/package/units |
+| Units | C# | https://github.com/engineers-tools/Units |
+| Units | Go | https://github.com/smyrman/units |
+| Units | C# | https://github.com/LabyrinthApps/Units |
+| Units and Measurements | Racket | https://github.com/Metaxal/measures |
+| Units D | D | https://github.com/nordlow/units-d |
+| Units of Measure | C# | https://archive.codeplex.com/?p=unitsofmeasure |
+| Units of Measure Prototype | Haskell | https://github.com/adamgundry/uom-prototype |
+| Units of Measurement Systems | Java | https://github.com/unitsofmeasurement/uom-systems |
+| Units_of_measure | C++ | https://github.com/Skeen/units_of_measure |
+| Units-api | PHP | https://github.com/shrimpza/units-api |
+| Units-of-Measure | Scala | https://github.com/Mononofu/Units-of-Measure |
+| Units-System | Ruby | https://github.com/jgoizueta/units-system |
+| Units-v2 | C++ | https://github.com/Corristo/units-v2 |
+| Units.jl | Julia | https://github.com/autocorr/Units.jl |
+| Units.js | JavaScript | https://github.com/jairtrejo/units.js |
+| UnitsC++ | C++ | https://sourceforge.net/projects/unitscpp/?source=directory |
+| UnitsKit | Objective-C | https://github.com/stevemoser/UnitsKit |
+| UnitsOfMeasure | C# | https://github.com/capnmidnight/UnitsOfMeasure |
+| UnitsOfMeasureBundle | PHP | https://github.com/PhpUnitsOfMeasure/UnitsOfMeasureBundle |
+| Unum | Python | https://bitbucket.org/kiv/unum |
+| Unum | Python | https://sourceforge.net/projects/unum/?source=directory |
+| UOM | Ruby | https://github.com/madriska/uom |
+| UOM Conversion Library | Java | https://sourceforge.net/projects/uomcl/?source=directory |
+| UOM-Domain | Java | https://github.com/unitsofmeasurement/uom-domain |
+| Uom.Dart | Dart | https://github.com/damondouglas/uom.dart |
+| ValueWithUnit | C# | https://github.com/vbfox/ValueWithUnit |
+| VUnits | Java | https://github.com/vaslabs/vunits |
 
 ## Tools
 | Name | Language | Source / URL |
