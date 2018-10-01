@@ -51,6 +51,8 @@ The data presented here is categorised as follows; The top tier libraries (the b
 Lastly, for the sake of transparency, the full dataset is presented. This gives anyone the chance to double check my analysis or make their own analysis without having to gather the data again. 
 
 ## Top tier libraries 
+[Back to top](#table-of-contents)
+
 | Name | Language | Amount of units/constants/prefixes supported | Source / URL |
 |---------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | CaliperSharp | C# | 132 units, 16 constants, 23 prefixes | https://github.com/point85/CaliperSharp |
