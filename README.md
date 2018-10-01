@@ -19,7 +19,7 @@ The most relevant results of the study (the top tier group) is presented first i
 If you have any questions or thoughts you can contact me at: oscar.bennich@gmail.com
 
 If you would like to read more, the master thesis can be found here: http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-353817 
-and the paper can be found here: [...]
+and the paper can be found here: [To be added]
 
 ## Data gathering information
 The data presented here was gathered from seven sites, using eight different keywords. More detailed information about this process can be found in either the thesis or the paper. The sites and keywords are found below. 
@@ -53,88 +53,88 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 ## Top tier libraries 
 | Name | Language | Amount of units/constants/prefixes supported | Source / URL |
 |---------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| UnitsNet | C# | 600+ units (including prefixes) | https://github.com/angularsen/UnitsNet |
-| Quantity System | C# | 300+ units | https://github.com/ibluesun/QuantitySystem |
-| Quantity Types | C# | 300+ units | https://github.com/objorke/QuantityTypes |
-| Working with Units and Amounts | C# | 70+ units, 16 constants | https://www.codeproject.com/Articles/611731/Working-with-Units-and-Amounts |
-| RedStar.Amounts | C# | ~80 units, 16 constants | https://github.com/petermorlion/RedStar.Amounts/ |
+| CaliperSharp | C# | 132 units, 16 constants, 23 prefixes | https://github.com/point85/CaliperSharp |
+| Convertinator | C# | ~20 units | https://github.com/hartez/Convertinator |
+| CSUnits | C# | 500+ units (including prefixes) | https://github.com/cureos/csunits |
 | Cubico | C# | ~140 units | https://github.com/irperez/Cubico |
-| Using physical quantities and units of measure in C# programs | C# | ~100 units | https://www.codeproject.com/Articles/1066008/Using-physical-quantities-and-units-of-measurement |
-| UnitParser | C# | ~300 units | https://www.codeproject.com/Articles/1211504/UnitParser |
 | Fhir.Metrics | C# | ~150 units, 24 prefixes | https://github.com/FirelyTeam/Fhir.Metrics |
 | Gu.Units | C# | ~50 units | https://github.com/JohanLarsson/Gu.Units |
-| CSUnits | C# | 500+ units (including prefixes) | https://github.com/cureos/csunits |
-| Convertinator | C# | ~20 units | https://github.com/hartez/Convertinator |
-| CaliperSharp | C# | 132 units, 16 constants, 23 prefixes | https://github.com/point85/CaliperSharp |
-| Pint | Python | 300+ units, 20 constants, 27 prefixes | https://github.com/hgrecco/pint |
-| Scimath | Python | 300+ units | https://github.com/enthought/scimath |
-| Quantities | Python | 300+ units, 28 prefixes | https://github.com/python-quantities/python-quantities |
+| Quantity System | C# | 300+ units | https://github.com/ibluesun/QuantitySystem |
+| Quantity Types | C# | 300+ units | https://github.com/objorke/QuantityTypes |
+| RedStar.Amounts | C# | ~80 units, 16 constants | https://github.com/petermorlion/RedStar.Amounts/ |
+| UnitParser | C# | ~300 units | https://www.codeproject.com/Articles/1211504/UnitParser |
+| UnitsNet | C# | 600+ units (including prefixes) | https://github.com/angularsen/UnitsNet |
+| Using physical quantities and units of measure in C# programs | C# | ~100 units | https://www.codeproject.com/Articles/1066008/Using-physical-quantities-and-units-of-measurement |
+| Working with Units and Amounts | C# | 70+ units, 16 constants | https://www.codeproject.com/Articles/611731/Working-with-Units-and-Amounts |
+| Aegon | Python | 150+ units | https://github.com/lukaskollmer/aegon |
 | Astropy | Python | ~150 units, 35 constants | https://github.com/astropy/astropy |
 | Efficient Scalars in Python | Python | ~150 units | http://russp.us/scalar-python.htm |
+| Misu | Python | ~450 units, 20 prefixes | https://github.com/cjrh/misu |
 | ParamPy | Python | 50+ units, 16 prefixes | https://github.com/matthewwardrop/python-parampy |
+| Pint | Python | 300+ units, 20 constants, 27 prefixes | https://github.com/hgrecco/pint |
 | Pyvalem | Python | 70+ units | https://github.com/xnx/pyqn |
 | Quantiphy | Python | ~40 units, 19 prefixes, 19 constants | https://github.com/KenKundert/quantiphy |
-| Misu | Python | ~450 units, 20 prefixes | https://github.com/cjrh/misu |
-| Aegon | Python | 150+ units | https://github.com/lukaskollmer/aegon |
-| BoostUnits | C++ | ~200 units, 20 prefixes, ~150 constants | https://github.com/boostorg/units/ |
-| Units | C++ | ~150 units, 22 prefixes | https://github.com/nholthaus/units |
+| Quantities (#1) | Python | 300+ units, 28 prefixes | https://github.com/python-quantities/python-quantities |
+| Scimath | Python | 300+ units | https://github.com/enthought/scimath |
+| BoostUnits | C++ | ~200 units, 20 prefixes, ~150 constants | https://www.boost.org/doc/libs/1_66_0/doc/html/boost_units.html |
 | PhysUnits | C++ | 100+ units, 7 constants, 28 prefixes | https://github.com/martinmoene/PhysUnits-CT-Cpp11 |
+| Units | C++ | ~150 units, 22 prefixes | https://github.com/nholthaus/units |
 | Units | C++ | ~30 units, 330+ constants, 14 prefixes | https://github.com/tonypilz/units |
 | Units and measures for C++ 11 | C++ | ~50 units | https://www.codeproject.com/Articles/1088293/Units-and-measures-for-Cplusplus |
-| Ruby Units | Ruby | ~150 units, 30 prefixes | https://github.com/olbrich/ruby-units |
-| Unitwise | Ruby | 300+ units | https://github.com/joshwlewis/unitwise |
-| SY | Ruby | 30+ units, ~10 constants | https://github.com/boris-s/sy |
-| Units-Ruby | Ruby | 74 units, 5 prefixes | https://github.com/bfoz/units-ruby |
-| Uom | Ruby | 63 units | https://github.com/caruby/uom |
-| Quantity | Ruby | ~40 units, 25 prefixes, | https://github.com/bhuga/quantity |
 | Alchemist | Ruby | 500+ units, 88 prefixes | https://github.com/halogenandtoast/alchemist |
-| Unit_Soup | Ruby | 0 units preloaded? | https://github.com/rutvij47/unit_soup |
 | Phys-Units | Ruby | 2300+ units, 85 prefixes | https://github.com/masa16/phys-units |
+| Quantity | Ruby | ~40 units, 25 prefixes, | https://github.com/bhuga/quantity |
+| Ruby Units | Ruby | ~150 units, 30 prefixes | https://github.com/olbrich/ruby-units |
+| SY | Ruby | 30+ units, ~10 constants | https://github.com/boris-s/sy |
+| Unit_Soup | Ruby | 0 units preloaded? | https://github.com/rutvij47/unit_soup |
+| Units-Ruby | Ruby | 74 units, 5 prefixes | https://github.com/bfoz/units-ruby |
+| Unitwise | Ruby | 300+ units | https://github.com/joshwlewis/unitwise |
+| Uom | Ruby | 63 units | https://github.com/caruby/uom |
 | Flowsnake | JavaScript | 650+ units | https://github.com/Eldelshell/flowsnake |
 | JS-quantities | JavaScript | ~150 units, 30 prefixes | https://github.com/gentooboontoo/js-quantities |
 | Mezur | JavaScript | ~100 units | https://github.com/guyisra/mezur |
-| Unitz | JavaScript | ~70 units | https://github.com/ClickerMonkey/unitz |
 | Units by Stak Digital | JavaScript | ~50 units | https://github.com/stak-digital/units |
-| Unit API - JSR 385 | Java | 30+ units, 28 prefixes | https://github.com/unitsofmeasurement/unit-api |
+| Unitz | JavaScript | ~70 units | https://github.com/ClickerMonkey/unitz |
 | Caliper | Java | ~130 units,  23 prefixes, 16 constants | https://github.com/point85/caliper |
-| SI-Units | Java | 120+ units, 4 constants | https://github.com/unitsofmeasurement/si-units |
 | JSR 363 | Java | 35 units | https://jcp.org/en/jsr/detail?id=363 |
-| Efficient Scalars in Scala | Scala | ~150 units | http://russp.us/scalar-scala.htm |
-| Squants | Scala | ~300 units, 28 prefixes | https://github.com/typelevel/squants |
+| SI-Units | Java | 120+ units, 4 constants | https://github.com/unitsofmeasurement/si-units |
+| Unit API - JSR 385 | Java | 30+ units, 28 prefixes | https://github.com/unitsofmeasurement/unit-api |
 | Coulomb | Scala | ~70 units, 28 prefixes | https://github.com/erikerlandson/coulomb |
-| SI -- A Scala Library of Units of Measurement | Scala | ~50 units, 20 prefixes | https://gitlab.com/h2b/SI |
+| Efficient Scalars in Scala | Scala | ~150 units | http://russp.us/scalar-scala.htm |
 | Scala-units | Scala | ~120 units | https://github.com/bwkimmel/scala-units |
+| SI -- A Scala Library of Units of Measurement | Scala | ~50 units, 20 prefixes | https://gitlab.com/h2b/SI |
+| Squants | Scala | ~300 units, 28 prefixes | https://github.com/typelevel/squants |
+| Convertor | PHP | 70+ units | https://github.com/olifolkerd/convertor |
 | PHP Units of Measure | PHP | ~100 units | https://github.com/PhpUnitsOfMeasure/php-units-of-measure |
 | UnitConverter | PHP | 130+ units | https://github.com/nfraz007/UnitConverter |
-| Convertor | PHP | 70+ units | https://github.com/olifolkerd/convertor |
-| UOM-Plugin | Haskell | 0 units preloaded | https://github.com/adamgundry/uom-plugin |
-| Dimensional | Haskell | ~200 units, 21 prefixes | https://github.com/bjornbm/dimensional|
+| Dimensional | Haskell | ~200 units, 21 prefixes | https://github.com/bjornbm/dimensional |
 | Quantities | Haskell | 200+ units, 28 prefixes, 3 constants | https://github.com/jdreaver/quantities |
+| UOM-Plugin | Haskell | 0 units preloaded | https://github.com/adamgundry/uom-plugin |
 | Physical Units for Matlab | MatLab | 800+ units | https://github.com/sky-s/physical-units-for-matlab |
 | Quantities | MatLab | 200+ units, 28 prefixes, 18 constants | https://github.com/mikofski/Quantities |
-| UnitKit | Swift | 100+ units | https://github.com/otaviocc/UnitKit |
 | MKUnits | Swift | 80 units | https://github.com/michalkonturek/MKUnits |
-| Units | Multiple | 65 units, 70 constants | https://github.com/saroad2/units |
+| UnitKit | Swift | 100+ units | https://github.com/otaviocc/UnitKit |
 | PHYSICS | Multiple | ~190 units, 25 prefixes | http://sergey-l-gladkiy.narod.ru/index/physics/0-14 |
-| Units 2 | Clojure | ~45 units, 28 prefixes | https://github.com/mfey/units2 |
-| EiffelUnits | Eiffel | ~100 units, 21 prefixes | http://se.inf.ethz.ch/old/projects/markus_keller/EiffelUnits.html |
-| Unitful.jl | Julia | ~170 units, 50 prefixes, 21 constants | https://github.com/ajkeller34/Unitful.jl |
-| Quantities | Idris | ~200 units, 24 prefixes | https://github.com/timjb/quantities |
-| Elixir Unit Converter | Elixir | 60+ units | https://github.com/carturoch/ex_uc |
-| Units of Measure (#2) | Kotlin | 350+ units | https://github.com/kunalsheth/units-of-measure |
-| Quantities | D | ~50 units, 20 prefixes | https://github.com/biozic/quantities |
-| Measures with Dimensions | Racket | ~150 units, 20 prefixes | https://github.com/AlexKnauth/measures-with-dimensions |
-| Uncodium.Units | F# | ~350 units, 28 prefixes, ~50 constants | https://github.com/stefanmaierhofer/Uncodium.Units |
+| Units | Multiple | 65 units, 70 constants | https://github.com/saroad2/units |
 | Dimensioned | Rust | ~450 units & constants (hard to differentiate) | https://github.com/paholg/dimensioned |
+| EiffelUnits | Eiffel | ~100 units, 21 prefixes | http://se.inf.ethz.ch/old/projects/markus_keller/EiffelUnits.html |
+| Elixir Unit Converter | Elixir | 60+ units | https://github.com/carturoch/ex_uc |
 | FURY | Fortran | ? | https://github.com/szaghi/FURY |
+| Lua-Physical | Lua | ~150 units, 10 prefixes, 21 constants | https://github.com/tjenni/lua-physical |
+| Measurement Units for R | R | Has 0 preloaded units itself, uses other Library "UDUNITS-2" for this | https://github.com/r-quantities/units/ |
+| Measures with Dimensions | Racket | ~150 units, 20 prefixes | https://github.com/AlexKnauth/measures-with-dimensions |
 | PhysicalQuantities | Common Lisp | ~40 units, 28 prefixes | https://github.com/mrossini-ethz/physical-quantities |
-| Units of measurement for Ada | Ada | 100+ units, 20 prefixes | https://sourceforge.net/projects/unitsofmeasurementforada/?source=directory |
-| Red-units | Red | 960 units, 1100+ constants, 100+ prefixes | https://gitlab.com/maxvel/red-units |
 | PPX_Measure | OCalm | 0 units preloaded. Generates a lot of code from simple commands instead (see documentation) | https://github.com/xvw/ppx_measure |
 | Purescript-Quantities | PureScript | ~100 units, 23 prefixes, 14 constants | https://github.com/sharkdp/purescript-quantities |
-| Lua-Physical | Lua | ~150 units, 10 prefixes, 21 constants | https://github.com/tjenni/lua-physical |
+| Quantities | Idris | ~200 units, 24 prefixes | https://github.com/timjb/quantities |
+| Quantities | D | ~50 units, 20 prefixes | https://github.com/biozic/quantities |
+| Red-units | Red | 960 units, 1100+ constants, 100+ prefixes | https://gitlab.com/maxvel/red-units |
+| Uncodium.Units | F# | ~350 units, 28 prefixes, ~50 constants | https://github.com/stefanmaierhofer/Uncodium.Units |
+| Unitful.jl | Julia | ~170 units, 50 prefixes, 21 constants | https://github.com/ajkeller34/Unitful.jl |
 | Units | Tcl | 60 units, 21 prefixes | https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/units/units.html |
-| Measurement Units for R | R | Has 0 preloaded units itself, uses other Library "UDUNITS-2" for this | https://github.com/r-quantities/units/ |
+| Units 2 | Clojure | ~45 units, 28 prefixes | https://github.com/mfey/units2 |
+| Units of Measure | Kotlin | 350+ units | https://github.com/kunalsheth/units-of-measure |
+| Units of measurement for Ada | Ada | 100+ units, 20 prefixes | https://sourceforge.net/projects/unitsofmeasurementforada/?source=directory |
 
 ## Second tier libraries 
 | Name | Language | Source / URL |
