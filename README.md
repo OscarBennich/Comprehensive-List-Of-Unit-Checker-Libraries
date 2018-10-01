@@ -139,6 +139,8 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 | Units of measurement for Ada | Ada | 100+ units, 20 prefixes | https://sourceforge.net/projects/unitsofmeasurementforada/?source=directory |
 
 ## Second tier libraries 
+[Back to top](#table-of-contents)
+
 | Name | Language | Source / URL |
 |------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------|
 | .NET Unit Conversion Library | C# | https://sourceforge.net/projects/unitcon/ |
@@ -357,6 +359,8 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 | VUnits | Java | https://github.com/vaslabs/vunits |
 
 ## Tools
+[Back to top](#table-of-contents)
+
 | Name | Language | Source / URL |
 |-------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------|
 | Alfred-Convert | Python | https://github.com/deanishe/alfred-convert |
@@ -451,6 +455,8 @@ Lastly, for the sake of transparency, the full dataset is presented. This gives 
 | Xiny | Go | https://github.com/bcicen/xiny |
 
 ## All projects
+[Back to top](#table-of-contents)
+
 | Name | Language | Valid project? | Source / URL |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|-------------------------------------------------------------------------------------------------|
 | .NET Unit Conversion Library | C# | Yes | https://sourceforge.net/projects/unitcon/ |
